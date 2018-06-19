@@ -31,5 +31,5 @@ Notes:
 
 Screenshot
 
-  ![Screenshot](documents/lpc1114_i2c_oled.PNG)
+  ![Screenshot](documents/lpc1114_i2c_oled.png)
   
